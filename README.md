@@ -1,2 +1,2 @@
-;# IHAD
+# IHAD
 AIHAD
