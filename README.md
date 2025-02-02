@@ -1,3 +1,3 @@
 <head> Registro IHAD </head>
 
-Estado del proyecto: en construcción
+  -Estado del proyecto: en construcción
